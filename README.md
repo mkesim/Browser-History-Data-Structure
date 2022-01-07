@@ -1,2 +1,1 @@
-# Browser-History-Data-Structure
-Browser History Stack Using Java
+# Data Structure examples LinkedList(LinkedListOgrenci.java), Stack(browser.java) and Queue(kuyruk.java) 
